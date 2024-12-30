@@ -25,16 +25,6 @@ wheels/
 venv/
 ENV/
 
-# Streamlit secrets
-.streamlit/secrets.toml
-
-# Environment variables
-.env
-
-# FAISS index and data files
-data/faiss_store_openai.pkl
-data/processed_urls.txt
-
 # IDE specific files
 .idea/
 .vscode/
