@@ -56,12 +56,7 @@ streamlit run main.py
 ## Project Structure
 
 
-scheme_research_tool/
-├── .streamlit/                # Streamlit configuration
-├── data/                     # Data storage
-├── main.py                   # Main application
-├── requirements.txt          # Dependencies
-└── README.md                # Documentation
+scheme_research_tool/ ├── .streamlit/ # Streamlit configuration ├── data/ # Data storage ├── main.py # Main application ├── requirements.txt # Dependencies └── README.md # Documentation
 
 
 ## Configuration
