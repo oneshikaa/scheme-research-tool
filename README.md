@@ -2,8 +2,6 @@
 
 A Streamlit-based web application for analyzing government schemes and policies using natural language processing.
 
-[🎬 Demo Video](./demo_video.mp4)
-
 ## Features
 
 - URL content extraction and analysis
